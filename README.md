@@ -5,7 +5,7 @@ Usage
 --------------------
 Just include the file DSLog.h and import it when neeeded using:
 ```obj-c
-#import "DSlog.h"
+#import "DSLog.h"
 ```
 
 Output
