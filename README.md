@@ -1,6 +1,13 @@
 DSLog
 =========
 
+Usage
+--------------------
+Just include the file DSLog.h and import it when neeeded using:
+```
+#import "DSlog.h"
+```
+
 Output
 --------------------
 ######DSLogInfo(@"%@", @"My nice output");
