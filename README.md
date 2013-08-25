@@ -1,7 +1,7 @@
 DSLog
 =========
 
-Output example
+Output
 --------------------
 ######DSLogInfo(@"%@", @"My nice output");
 ```
